@@ -1,0 +1,16 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/project_1/item2.png",
+            "title": "Trening Ute",
+            "description": "React, Tailwind, SCSS",
+            "url": "http://www.treningute.no"
+        },
+        {
+            "cover": "/portfolio/project_1/item2.png",
+            "title": "Trening Ute",
+            "description": "React, Tailwind, SCSS",
+            "url": "http://www.treningute.no"
+        }
+    ]
+}
